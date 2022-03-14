@@ -1,0 +1,12 @@
+body {
+    background-color: #ffff;
+    color: #37402d;
+}
+
+.jumbotron {
+    background-image: url("../images/dashboard-header.jpg");
+    background-size: 100%;
+    color: white;
+} 
+
+/*Changed graph colors in charts.js*/
